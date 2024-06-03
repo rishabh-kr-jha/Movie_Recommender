@@ -1,0 +1,1 @@
+Movie_Recommender is a sophisticated web tool crafted with HTML, CSS, and JavaScript, providing personalized movie suggestions based on user preferences, including genre, actors, and directors, through an interactive interface.
